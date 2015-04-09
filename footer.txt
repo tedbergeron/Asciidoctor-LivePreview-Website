@@ -1,0 +1,18 @@
+====
+
+link:One.txt[One]
+
+link:Two.txt[Two]
+
+
+[options="header"]
+|=======================
+|link:one.txt[One]   |link:two.txt[Two]   |link:three.txt[Three]
+|link:one.txt[One]   |link:two.txt[Two]   |link:three.txt[Three]
+|link:one.txt[One]   |link:two.txt[Two]   |link:three.txt[Three]
+|link:one.txt[One]   |link:two.txt[Two]   |link:three.txt[Three]
+|=======================
+
+[.center.text-center]
+{docdir} {deg} &#9439; 2015 {deg} icon:file-text[role=Maroon] Document generated with Asciidoctor {asciidoctor-version}
+====

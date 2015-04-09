@@ -1,0 +1,6 @@
+[options="header"]
+|=======================
+|link:index.txt[docs icon:home[]]|link:one.txt[One]|link:two.txt[Two]|link:three.txt[Three]
+|=======================
+[.right.text-center]
+icon:file-text-o[5x, role=Maroon]

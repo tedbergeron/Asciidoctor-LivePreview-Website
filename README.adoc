@@ -1,0 +1,19 @@
+= Create a Local Website or Wiki
+
+This repo is designed to be downloaded and viewed locally with the  link:https://chrome.google.com/webstore/detail/asciidoctorjs-live-previe/iaalpfgpbocpdfblpnhhgllgbdbchmia?hl=en-US[Asciidoctor.js Live Preview] extension for Chrome.
+
+Set the options for the Chrome extension
+
+* Safe mode: _unsafe_
+* Preview .txt files: icon:check[role=black] _(so you can use these .txt files in addition to .adoc)_
+* Theme / Stylesheet: _(pick one)_
+
+Click save.
+
+Open the index.txt file in Chrome to start previewing it.
+
+*Have your text editor open right next to Chrome* so you have a side-by-side editor|viewer. Each time you save changes to the text files, you'll see your changes rendered in Chrome.
+
+TIP: *Pro Tip:* Bookmark your AsciiDoc text file. Then write links to all your other docs creating a simple wiki or intranet site on your computer; powered by this browser extension and a text editor.
+
+link:https://addons.mozilla.org/en-us/firefox/addon/asciidoctorjs-live-preview/?src=search[Asciidoctor.js Live Preview] is also available for Firefox but it is not as mature as the Chrome version as of the time of this writing. But I'm sure it will catch up quickly.
