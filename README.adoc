@@ -17,3 +17,5 @@ Open the index.txt file in Chrome to start previewing it.
 TIP: *Pro Tip:* Bookmark your AsciiDoc text file. Then write links to all your other docs creating a simple wiki or intranet site on your computer; powered by this browser extension and a text editor.
 
 link:https://addons.mozilla.org/en-us/firefox/addon/asciidoctorjs-live-preview/?src=search[Asciidoctor.js Live Preview] is also available for Firefox but it is not as mature as the Chrome version as of the time of this writing. But I'm sure it will catch up quickly.
+
+Once you have the browser plug in you can test it online here: link:http://tedbergeron.github.io/Asciidoctor-LivePreview-Website/index.txt[]
